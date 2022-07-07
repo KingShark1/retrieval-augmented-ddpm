@@ -6,9 +6,9 @@ setup(
   version = '0.0.1',
   license='MIT',
   description = 'Retrieval-Augmented Denoising Diffusion Probabilistic Models',
-  author = 'Phil Wang',
-  author_email = 'lucidrains@gmail.com',
-  url = 'https://github.com/lucidrains/retrieval-augmented-ddpm',
+  author = 'Manas Tiwari',
+  author_email = 'manastiwari28@gmail.com',
+  url = 'https://github.com/KingShark1/retrieval-augmented-ddpm',
   keywords = [
     'artificial intelligence',
     'deep learning',    
@@ -25,6 +25,6 @@ setup(
     'Intended Audience :: Developers',
     'Topic :: Scientific/Engineering :: Artificial Intelligence',
     'License :: OSI Approved :: MIT License',
-    'Programming Language :: Python :: 3.6',
+    'Programming Language :: Python :: 3.8',
   ],
 )
